@@ -1,2 +1,2 @@
-# web scrapping from monster  
- scrapping job from monster.com
+# web scrapping from indeed and cwjobs
+ scrapping job
